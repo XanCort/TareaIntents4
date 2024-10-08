@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea4</string>
+    <string name="enviar">Enviar</string>
+    <string name="hintTxt">Texto</string>
+</resources>
